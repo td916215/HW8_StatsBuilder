@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541166632 source:c:\my files\classes\(18c) fall semester 2018\computer programming\module 8 (this week!)\hw8_statsbuilder\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataAnalysis.h"
+
+1541167158 c:\my files\classes\(18c) fall semester 2018\computer programming\module 8 (this week!)\hw8_statsbuilder\dataanalysis.h
+
